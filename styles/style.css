@@ -44,3 +44,10 @@ color: balck;
     border: 2px solid black;
     color: white;
   }
+  .x-line{
+    border-left: 2px dashed #1DD100;
+    height: 500px;
+    margin-bottom: 30px;
+    margin-left: 55px;
+  }
+

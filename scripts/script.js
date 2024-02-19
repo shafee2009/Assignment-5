@@ -38,8 +38,20 @@ for (let integer = 0; integer < headings.length; integer++) {
 }
 
         
-        // Toggle selection on the clicked heading
-        this.classList.toggle("selected");
+         
+        
+
+        document.getElementById("PayForTour").addEventListener("click", function() {
+    
+            let target = document.getElementById("paymentYard");
+            let targetSectionTwo = target.offsetTop;
+        
+            
+            window.scrollTo({
+                top: targetSectionTwo,
+                behavior: 'smooth' 
+            });
+        });
     
 
 
