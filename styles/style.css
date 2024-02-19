@@ -4,3 +4,43 @@
 .raleway{
     font-family: "Raleway", sans-serif;
 }
+hr.new2 {
+    border-top: 3px dashed green;
+  }
+  .dr{
+    background-color: #0307120D ;
+    
+    width: 20%;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+  .brtc{
+    background-color: #F7F8F8 ;
+    border-radius: 10px;
+    width: 75%;
+  }
+  .mmm{
+    border-top: 2px dashed black;
+    width: 50%;
+  }
+  .zzz{
+    
+    width: 50%;
+  }
+  .xbx{
+background-color: #F7F8F8;
+width: 10%;
+border-radius: 10px;
+color: balck;
+  }
+  .green {
+    
+    background-color:#1DD100 ;
+    width: 90px;
+    border: 2px solid black;
+    color: white;
+  }
